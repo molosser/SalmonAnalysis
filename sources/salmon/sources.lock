@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "updated": "2025-10-25T00:00:00Z",
+  "sources_status": [
+    {"name": "iLaks", "url": "https://ilaks.no/", "last_success": "2025-10-25T07:00:00Z", "status": 200, "latency_ms": 480},
+    {"name": "SalmonBusiness", "url": "https://www.salmonbusiness.com/", "last_success": "2025-10-25T07:00:00Z", "status": 200, "latency_ms": 512},
+    {"name": "FishPool", "url": "https://fishpool.eu/", "last_success": "2025-10-25T06:55:00Z", "status": 200, "latency_ms": 310},
+    {"name": "Mattilsynet", "url": "https://www.mattilsynet.no/en", "last_success": "2025-10-24T09:20:00Z", "status": 200, "latency_ms": 835},
+    {"name": "EUMOFA", "url": "https://eumofa.eu/", "last_success": "2025-10-23T11:00:00Z", "status": 200, "latency_ms": 695},
+    {"name": "SAS_Cargo", "url": "https://sascargo.com/Cargo-Solutions/What-we-ship/Perishables", "last_success": "2025-10-23T08:30:00Z", "status": 200, "latency_ms": 890},
+    {"name": "GACC_EN_Food", "url": "https://english.customs.gov.cn/inspection/html/food.html", "last_success": "2025-10-22T15:00:00Z", "status": 200, "latency_ms": 610}
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "category": "salmon",
+  "updated": "2025-10-25T00:00:00Z",
+  "sources": [
+    {
+      "group": "A. 一线新闻 / 盘面",
+      "items": [
+        {"name": "iLaks", "url": "https://ilaks.no/", "lang": "no", "cadence": "daily", "note": "挪威行业媒体，盘面/规格/事故快讯"},
+        {"name": "SalmonBusiness", "url": "https://www.salmonbusiness.com/", "lang": "en", "cadence": "daily", "note": "英文海产媒体，盘面、企业动态与物流"},
+        {"name": "FishFarmingExpert", "url": "https://www.fishfarmingexpert.com/", "lang": "en", "cadence": "daily", "note": "养殖生产与生物事件"},
+        {"name": "IntraFish", "url": "https://www.intrafish.com/", "lang": "en", "cadence": "daily", "note": "全球行业媒体，盘面与并购政策"},
+        {"name": "TheFishSite", "url": "https://thefishsite.com/", "lang": "en", "cadence": "weekly", "note": "水产资讯与技术报道"},
+        {"name": "Kyst.no", "url": "https://kyst.no/", "lang": "no", "cadence": "daily", "note": "区域新闻与业界动态"}
+      ]
+    },
+    {
+      "group": "B. 指数 / 交易与期货",
+      "items": [
+        {"name": "LFEX", "url": "https://www.lfexchange.com/", "lang": "en", "cadence": "daily", "note": "三文鱼现货交易与结构指数"},
+        {"name": "FishPool", "url": "https://fishpool.eu/", "lang": "en", "cadence": "daily", "note": "三文鱼期货与周度价格"},
+        {"name": "Euronext_Salmon", "url": "https://live.euronext.com/en/products/commodities/salmon-derivatives", "lang": "en", "cadence": "intraday", "note": "Euronext 三文鱼衍生品合约信息"}
+      ]
+    },
+    {
+      "group": "C. 权威统计 / 监管与机构",
+      "items": [
+        {"name": "SSB_Salmon_Weekly", "url": "https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks", "lang": "en", "cadence": "weekly", "note": "挪威统计局，出口量与价格"},
+        {"name": "Mattilsynet", "url": "https://www.mattilsynet.no/en", "lang": "en", "cadence": "ad_hoc", "note": "食品安全与动物健康监管，合规、区域与检测通报"},
+        {"name": "Fiskeridir", "url": "https://www.fiskeridir.no/english", "lang": "en", "cadence": "ad_hoc", "note": "渔业与养殖许可/产量通告"},
+        {"name": "NSC_Market", "url": "https://www.norwegianseafoodcouncil.com/", "lang": "en", "cadence": "weekly", "note": "海产委员会市场数据与对华份额"},
+        {"name": "EUMOFA", "url": "https://eumofa.eu/", "lang": "en", "cadence": "weekly", "note": "欧盟市场观察数据库与报告"}
+      ]
+    },
+    {
+      "group": "D. 运输通道 / 航司与机场",
+      "items": [
+        {"name": "SAS_Cargo", "url": "https://sascargo.com/Cargo-Solutions/What-we-ship/Perishables", "lang": "en", "cadence": "ad_hoc", "note": "北欧生鲜空运通道"},
+        {"name": "Qatar_Airways_Cargo", "url": "https://qrcargo.com/", "lang": "en", "cadence": "ad_hoc", "note": "卡航，北欧-亚洲航线"},
+        {"name": "Emirates_SkyCargo", "url": "https://www.skycargo.com/", "lang": "en", "cadence": "ad_hoc", "note": "阿联酋航线通告"},
+        {"name": "PACTL_PVG", "url": "https://www.pactl.com/", "lang": "en", "cadence": "ad_hoc", "note": "浦东机场货运公告"},
+        {"name": "SH_Airport_EN", "url": "https://www.shairport.com/ensh/", "lang": "en", "cadence": "ad_hoc", "note": "上海机场英文货运信息"}
+      ]
+    },
+    {
+      "group": "E. 中国监管 / 到岸合规",
+      "items": [
+        {"name": "GACC_EN_Food", "url": "https://english.customs.gov.cn/inspection/html/food.html", "lang": "en", "cadence": "ad_hoc", "note": "中国海关食品检验与检疫公告"}
+      ]
+    },
+    {
+      "group": "F. 上市公司公告",
+      "items": [
+        {"name": "Mowi", "url": "https://mowi.com/news-center/", "lang": "en", "cadence": "ad_hoc"},
+        {"name": "SalMar", "url": "https://www.salmar.no/en/news/", "lang": "en", "cadence": "ad_hoc"},
+        {"name": "Leroy", "url": "https://www.leroyseafood.com/en/about-us/news/", "lang": "en", "cadence": "ad_hoc"},
+        {"name": "Grieg", "url": "https://griegseafood.com/news", "lang": "en", "cadence": "ad_hoc"},
+        {"name": "Cermaq", "url": "https://www.cermaq.com/about-us/news-from-cermaq", "lang": "en", "cadence": "ad_hoc"},
+        {"name": "Bakkafrost", "url": "https://www.bakkafrost.com/en/investor/news", "lang": "en", "cadence": "ad_hoc"}
+      ]
+    }
+  ]
+}
